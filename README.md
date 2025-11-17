@@ -24,7 +24,7 @@ Players can play against each other, see whose turn it is, and get alerts when s
 
 ## 🎮 Demo
 Example screenshot:  
-<img src="./assets/imgs/image.png" width="300" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/bakror/Tic-Tac-Toe-Game/refs/heads/main/imgs/image.png" width="300" alt="Screenshot">
 
 ---
 
